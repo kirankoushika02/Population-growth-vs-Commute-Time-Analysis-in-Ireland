@@ -53,9 +53,9 @@ The final dataset includes both commute metrics and population growth data for f
 Add your screenshots here.
 
 Example:
-![Bar Chart](screenshots/bar-chart.png)
-![Scatter Plot](screenshots/scatterplot.png)
-![Explanatory Graph](screenshots/explanatory-graph.png)
+![Scatter Plot](Screenshots/Exploratory-Graph.png)
+![Scatter Plot](Screenshots/Explanatory-Graph.png)
+![Scatter Plot](Screenshots/Population-change-Growth-Graph.png)
 
 Note: The original source notebook is unavailable in this repository, so the implementation is documented through the report, presentation, visual outputs, and code snippets included in the appendix.
 # Population-growth-vs-Cummute-Time-Analysis-in-Ireland
