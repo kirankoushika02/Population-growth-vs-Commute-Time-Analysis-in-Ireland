@@ -50,12 +50,9 @@ The final dataset includes both commute metrics and population growth data for f
 - The explanatory scatterplot was chosen because it effectively shows the link between distance, commute time, and population growth in a single view.
 
 ## Screenshots
-Add your screenshots here.
-
-Example:
 ![Scatter Plot](Screenshots/Exploratory-Graph.png)
 ![Scatter Plot](Screenshots/Explanatory-Graph.png)
-![Scatter Plot](Screenshots/Population-change-Growth-Graph.png)
+![Scatter Plot](Screenshots/Population-change-Growth.png)
 
 Note: The original source notebook is unavailable in this repository, so the implementation is documented through the report, presentation, visual outputs, and code snippets included in the appendix.
 # Population-growth-vs-Cummute-Time-Analysis-in-Ireland
