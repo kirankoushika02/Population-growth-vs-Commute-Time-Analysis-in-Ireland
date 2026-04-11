@@ -1,0 +1,105 @@
+County,Reference Town,Commute Type,Distance to Dublin (km),Commute Time (min),Query Time,Year_2006,Year_2016
+Carlow,Carlow,driving,89.356,70.11666667,Morning,50349,56932
+Carlow,Carlow,driving,89.356,70.11666667,Evening,50349,56932
+Carlow,Carlow,transit,86.452,80,Morning,50349,56932
+Carlow,Carlow,transit,92.378,89,Evening,50349,56932
+Cavan,Cavan,driving,118.08,97.71666667,Morning,64003,76176
+Cavan,Cavan,driving,118.08,97.71666667,Evening,64003,76176
+Cavan,Cavan,transit,119.726,154.15,Morning,64003,76176
+Cavan,Cavan,transit,119.498,136.95,Evening,64003,76176
+Clare,Ennis Co. Clare,driving,245.308,155.5,Morning,110950,118817
+Clare,Ennis Co. Clare,driving,245.308,155.5,Evening,110950,118817
+Clare,Ennis Co. Clare,transit,234.765,217.8166667,Morning,110950,118817
+Clare,Ennis Co. Clare,transit,234.765,219.5333333,Evening,110950,118817
+Cork,Cork,driving,258.34,168.1833333,Morning,481295,542868
+Cork,Cork,driving,258.34,168.1833333,Evening,481295,542868
+Cork,Cork,transit,251.93,180,Morning,481295,542868
+Cork,Cork,transit,268.645,186,Evening,481295,542868
+Donegal,Letterkenny Co. Donegal,driving,239.972,191.3,Morning,147264,159192
+Donegal,Letterkenny Co. Donegal,driving,239.972,191.3,Evening,147264,159192
+Donegal,Letterkenny Co. Donegal,transit,239.307,223,Morning,147264,159192
+Donegal,Letterkenny Co. Donegal,transit,242.47,243,Evening,147264,159192
+Galway,Galway,driving,206.742,138.9833333,Morning,1187176,1347359
+Galway,Galway,driving,206.742,138.9833333,Evening,1187176,1347359
+Galway,Galway,transit,206.192,150,Morning,1187176,1347359
+Galway,Galway,transit,210.805,186.3,Evening,1187176,1347359
+Kerry,Tralee,driving,298.53,207.2666667,Morning,231670,258058
+Kerry,Tralee,driving,298.53,207.2666667,Evening,231670,258058
+Kerry,Tralee,transit,300.328,296.65,Morning,231670,258058
+Kerry,Tralee,transit,332.864,408,Evening,231670,258058
+Kildare,Naas,driving,36.637,38.83333333,Morning,139835,147707
+Kildare,Naas,driving,36.637,38.83333333,Evening,139835,147707
+Kildare,Naas,transit,49.122,80,Morning,139835,147707
+Kildare,Naas,transit,34.177,40,Evening,139835,147707
+Kilkenny,Kilkenny,driving,127.969,89.76666667,Morning,186335,222504
+Kilkenny,Kilkenny,driving,127.969,89.76666667,Evening,186335,222504
+Kilkenny,Kilkenny,transit,123.824,113.9166667,Morning,186335,222504
+Kilkenny,Kilkenny,transit,123.824,115.6833333,Evening,186335,222504
+Laois,Portlaoise,driving,93.33,70.16666667,Morning,87558,99232
+Laois,Portlaoise,driving,93.33,70.16666667,Evening,87558,99232
+Laois,Portlaoise,transit,84.611,122.7666667,Morning,87558,99232
+Laois,Portlaoise,transit,80.58,96,Evening,87558,99232
+Leitrim,Carrick-on-Shannon,driving,152.988,117.0666667,Morning,67059,84697
+Leitrim,Carrick-on-Shannon,driving,152.988,117.0666667,Evening,67059,84697
+Leitrim,Carrick-on-Shannon,transit,160.233,163.1,Morning,67059,84697
+Leitrim,Carrick-on-Shannon,transit,154.22,125,Evening,67059,84697
+Limerick,Limerick,driving,201.334,134.2666667,Morning,28950,32044
+Limerick,Limerick,driving,201.334,134.2666667,Evening,28950,32044
+Limerick,Limerick,transit,215.918,180,Morning,28950,32044
+Limerick,Limerick,transit,215.918,156,Evening,28950,32044
+Longford,Longford,driving,118.321,91.83333333,Morning,184055,194899
+Longford,Longford,driving,118.321,91.83333333,Evening,184055,194899
+Longford,Longford,transit,113.709,90,Morning,184055,194899
+Longford,Longford,transit,116.549,91,Evening,184055,194899
+Louth,Drogheda,driving,55.273,47.23333333,Morning,34391,40873
+Louth,Drogheda,driving,55.273,47.23333333,Evening,34391,40873
+Louth,Drogheda,transit,48.448,65.81666667,Morning,34391,40873
+Louth,Drogheda,transit,48.448,59.98333333,Evening,34391,40873
+Mayo,Castlebar,driving,234.167,177.15,Morning,111267,128884
+Mayo,Castlebar,driving,234.167,177.15,Evening,111267,128884
+Mayo,Castlebar,transit,248.53,210,Morning,111267,128884
+Mayo,Castlebar,transit,313.184,390,Evening,111267,128884
+Meath,Navan,driving,58.172,50.66666667,Morning,123839,130507
+Meath,Navan,driving,58.172,50.66666667,Evening,123839,130507
+Meath,Navan,transit,55.56,89.76666667,Morning,123839,130507
+Meath,Navan,transit,55.56,77.53333333,Evening,123839,130507
+Monaghan,Monaghan,driving,131.547,98.6,Morning,162831,195044
+Monaghan,Monaghan,driving,131.547,98.6,Evening,162831,195044
+Monaghan,Monaghan,transit,117.688,130,Morning,162831,195044
+Monaghan,Monaghan,transit,135.086,126,Evening,162831,195044
+Offaly,Tullamore,driving,100.414,77.43333333,Morning,55997,61386
+Offaly,Tullamore,driving,100.414,77.43333333,Evening,55997,61386
+Offaly,Tullamore,transit,95.529,80.53333333,Morning,55997,61386
+Offaly,Tullamore,transit,95.529,79,Evening,55997,61386
+Roscommon,Roscommon,driving,154.588,109.6833333,Morning,70868,77961
+Roscommon,Roscommon,driving,154.588,109.6833333,Evening,70868,77961
+Roscommon,Roscommon,transit,164.5,197,Morning,70868,77961
+Roscommon,Roscommon,transit,162.022,145,Evening,70868,77961
+Sligo,Sligo,driving,207.439,157.35,Morning,58768,64544
+Sligo,Sligo,driving,207.439,157.35,Evening,58768,64544
+Sligo,Sligo,transit,217.468,198.1,Morning,58768,64544
+Sligo,Sligo,transit,211.213,183,Evening,58768,64544
+Tipperary,Clonmel,driving,187.969,128.45,Morning,60894,65535
+Tipperary,Clonmel,driving,187.969,128.45,Evening,60894,65535
+Tipperary,Clonmel,transit,181.607,160,Morning,60894,65535
+Tipperary,Clonmel,transit,348.608,380,Evening,60894,65535
+Waterford,Waterford,driving,170.04,117.6333333,Morning,149244,159553
+Waterford,Waterford,driving,170.04,117.6333333,Evening,149244,159553
+Waterford,Waterford,transit,124.855,112,Morning,149244,159553
+Waterford,Waterford,transit,124.855,114,Evening,149244,159553
+Westmeath,Mullingar,driving,79.43,65.88333333,Morning,107961,116176
+Westmeath,Mullingar,driving,79.43,65.88333333,Evening,107961,116176
+Westmeath,Mullingar,transit,72.075,50,Morning,107961,116176
+Westmeath,Mullingar,transit,80.766,94,Evening,107961,116176
+Wexford,Wexford,driving,138.43,112.5,Morning,79346,88770
+Wexford,Wexford,driving,138.43,112.5,Evening,79346,88770
+Wexford,Wexford,transit,124.855,112,Morning,79346,88770
+Wexford,Wexford,transit,124.855,114,Evening,79346,88770
+Wicklow,Wicklow,driving,48.959,59.36666667,Morning,131749,149722
+Wicklow,Wicklow,driving,48.959,59.36666667,Evening,131749,149722
+Wicklow,Wicklow,transit,37.919,36.86666667,Morning,131749,149722
+Wicklow,Wicklow,transit,39.299,57,Evening,131749,149722
+,,,,,,126194,142425
+,,,,,,126194,142425
+,,,,,,126194,142425
+,,,,,,126194,142425
